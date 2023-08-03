@@ -57,8 +57,8 @@ for the control interface (replace <RaspberryPi_IP> with the actual IP address o
 
 ## Images of the Robot
 <p align="center">
-  <img src="https://github.com/gayathrymw/Intrusion_Detection_Robot_using_RaspberryPi/assets/91821885/cb5c1dee-b436-4b82-a6d6-eba1bab3eaac" alt="robot1" width="270" height="250">
-  <img src="https://github.com/gayathrymw/Intrusion_Detection_Robot_using_RaspberryPi/assets/91821885/c80d5836-f162-4994-ac5a-d6e8bffd11a5" alt="robot1" width="270" height="250">
+  <img src="https://github.com/gayathrymw/Intrusion_Detection_Robot_using_RaspberryPi/assets/91821885/cb5c1dee-b436-4b82-a6d6-eba1bab3eaac" alt="robot1" width="250" height="250">
+  <img src="https://github.com/gayathrymw/Intrusion_Detection_Robot_using_RaspberryPi/assets/91821885/c80d5836-f162-4994-ac5a-d6e8bffd11a5" alt="robot1" width="250" height="250">
 </p>
 
 
